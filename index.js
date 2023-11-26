@@ -30,7 +30,7 @@ const questions = [
         ]
     },
     {
-        question: "What is the largest ocean on Earth",
+        question: "What is the name of largest ocean on Earth",
         answers: [
             {text: "Pacific Ocean" , correct: true},
             {text: "Indian Ocean" , correct: false},

@@ -1,11 +1,11 @@
 const questions = [
     {
-        question: "What is the anicient name of INDIA",
+        question: "What is the fundamental unit of Quantum information",
         answers: [
-            { text: "Bharat", correct: true},
-            { text: "Hindustan", correct: false},
-            { text: "pakistan", correct: false},
-            { text: "India", correct: false},
+            { text: "Qubit", correct: true},
+            { text: "Quantum Byte", correct: false},
+            { text: "Quanta", correct: false},
+            { text: "Quantum Bit", correct: false},
 
         ]
     },
@@ -30,22 +30,22 @@ const questions = [
         ]
     },
     {
-        question: "What is the anicient name of INDIA",
+        question: "What is the largest ocean on Earth",
         answers: [
-            {text: "Bharat" , correct: true},
-            {text: "Hindustan" , correct: false},
-            {text: "pakistan" , correct: false},
-            {text: "India" , correct: false},
+            {text: "Pacific Ocean" , correct: true},
+            {text: "Indian Ocean" , correct: false},
+            {text: "Atlantic Ocean" , correct: false},
+            {text: "Arctic Ocean" , correct: false},
 
         ]
     },
     {
-        question: "Who is the father of mulla Pakistan",
+        question: "Who is the father of computer science",
         answers: [
-            {text: "Nepal" , correct: false},
-            {text: "Bharat" , correct: true},
-            {text: "pakistan" , correct: false},
-            {text: "Afganistan" , correct: false},
+            {text: "Albert" , correct: false},
+            {text: "Charles babbage" , correct: true},
+            {text: "Openhiemer" , correct: false},
+            {text: "Jagdish c. bose" , correct: false},
 
         ]
     },
